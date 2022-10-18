@@ -163,6 +163,3 @@ The project has a simple structure, represented as bellow:
 - [Stripe Dev Tools](https://stripe.com/docs/development) - official docs
 
 <br />
-
----
-[Flask Stripe Sample](https://blog.appseed.us/flask-stripe-open-source-mini-ecommerce/) - Free sample provided by [AppSeed](https://appseed.us).
